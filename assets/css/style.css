@@ -33,6 +33,18 @@ a { color:blue; text-decoration: none;}
 .sidebar {
     border-right: solid 1px #cdcdcd;
 }
+
+.logo{
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    align-items: center;
+}
+
+.logo h1{
+    margin: auto;
+}
+
 figure {
     text-align: center;
 }
